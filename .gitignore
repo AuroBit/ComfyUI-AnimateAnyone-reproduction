@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+/output/
+/input/
+/checkpoint/
+/temp/
+/.vs
+.idea/
+venv/
+.git/
